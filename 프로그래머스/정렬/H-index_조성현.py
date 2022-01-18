@@ -5,6 +5,5 @@ def solution(citations):
             answer = len(citations) - i
             return answer
     return 0
-
-citations = [3, 0, 6, 1, 5]
+citations = [3, 0, 6, 1, 5,7,8,9,10]
 print(solution(citations))
