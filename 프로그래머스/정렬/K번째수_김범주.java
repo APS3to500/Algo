@@ -1,5 +1,3 @@
-package sort.k번째수;
-
 import java.util.ArrayList;
 import java.util.Arrays;
 
