@@ -8,8 +8,6 @@ section = [list(map(int, input().split())) for _ in range(n)]
 
 dp = [[0] * (n+1) for _ in range(n+1)]
 
-
-# 테두리치기
 for i in range(n):
     for j in range(n):
         dp[i+1][j+1] = dp[i][j+1] + dp[i+1][j] - dp[i][j] + section[i][j]

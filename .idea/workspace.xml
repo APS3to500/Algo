@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a28cb121-93fe-46f8-b2dd-aaa57f52a28f" name="Default Changelist" comment="220118">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/백준/스터디/11660_구간합구하기5_정성우.py" beforeDir="false" afterPath="$PROJECT_DIR$/백준/스터디/11660_구간합구하기5_정성우.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,66 +15,57 @@
     <session id="143151374">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="14" />
+          <entry key="project.closed" value="20" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.2" value="3" />
-          <entry key="project.open.time.3" value="4" />
+          <entry key="project.open.time.3" value="9" />
           <entry key="project.open.time.4" value="5" />
-          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.5" value="2" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="15" />
+          <entry key="project.opened" value="21" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="29" />
+          <entry key="py" value="35" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="29" />
+          <entry key="Python" value="35" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="22" />
-          <entry key="py" value="1002" />
+          <entry key="py" value="4076" />
           <entry key="txt" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="28" />
-          <entry key="Python" value="1002" />
+          <entry key="Python" value="4076" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/프로그래머스/DFS&amp;BFS/단어변환_정성우.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="513">
-              <caret line="27" column="14" selection-start-line="27" selection-start-column="14" selection-end-line="27" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/프로그래머스/DFS&amp;BFS/여행경로_정성우.py">
+        <entry file="file://$PROJECT_DIR$/백준/스터디/11660_구간합구하기5_정성우.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="36" column="17" lean-forward="true" selection-start-line="3" selection-end-line="36" selection-end-column="17" />
+            <state relative-caret-position="190">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/프로그래머스/이분탐색/입국심사_정성우.py">
+        <entry file="file://$PROJECT_DIR$/백준/스터디/17143_낚시왕_정성우.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="13" column="27" lean-forward="true" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+            <state relative-caret-position="570">
+              <caret line="30" column="28" lean-forward="true" selection-start-line="30" selection-start-column="28" selection-end-line="30" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -121,14 +113,18 @@
         <option value="$PROJECT_DIR$/프로그래머스/이분탐색/입국심사_정성우.py" />
         <option value="$PROJECT_DIR$/프로그래머스/DFS&amp;BFS/단어변환_정성우.py" />
         <option value="$PROJECT_DIR$/프로그래머스/DFS&amp;BFS/여행경로_정성우.py" />
+        <option value="$PROJECT_DIR$/프로그래머스/그래프/순위_정성우.py" />
+        <option value="$PROJECT_DIR$/프로그래머스/그래프/가장먼노드_정성우.py" />
+        <option value="$PROJECT_DIR$/백준/스터디/17143_낚시왕_정성우.py" />
+        <option value="$PROJECT_DIR$/백준/스터디/11660_구간합구하기5_정성우.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="376" />
-    <option name="y" value="-20" />
-    <option name="width" value="1940" />
-    <option name="height" value="1050" />
+    <option name="x" value="2059" />
+    <option name="y" value="-21" />
+    <option name="width" value="1260" />
+    <option name="height" value="840" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -149,19 +145,18 @@
             <path>
               <item name="Algo" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algo" type="462c0819:PsiDirectoryNode" />
-              <item name="프로그래머스" type="462c0819:PsiDirectoryNode" />
+              <item name="백준" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algo" type="462c0819:PsiDirectoryNode" />
+              <item name="백준" type="462c0819:PsiDirectoryNode" />
+              <item name="스터디" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Algo" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algo" type="462c0819:PsiDirectoryNode" />
               <item name="프로그래머스" type="462c0819:PsiDirectoryNode" />
-              <item name="DFS&amp;BFS" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Algo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algo" type="462c0819:PsiDirectoryNode" />
-              <item name="프로그래머스" type="462c0819:PsiDirectoryNode" />
-              <item name="이분탐색" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -186,7 +181,49 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.여행경로_정성우">
+  <component name="RunManager" selected="Python.17143_낚시왕_정성우">
+    <configuration name="11660_구간합구하기5_정성우" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Algo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/백준/스터디" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/백준/스터디/11660_구간합구하기5_정성우.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="17143_낚시왕_정성우" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Algo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/백준/스터디" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/백준/스터디/17143_낚시왕_정성우.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="이중우선순위큐_정성우" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Algo" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -200,6 +237,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/프로그래머스/힙/이중우선순위큐_정성우.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="가장먼노드_정성우" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Algo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/프로그래머스/그래프" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/프로그래머스/그래프/가장먼노드_정성우.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -252,13 +310,13 @@
     </configuration>
     <list>
       <item itemvalue="Python.이중우선순위큐_정성우" />
-      <item itemvalue="Python.단어변환_정성우" />
-      <item itemvalue="Python.여행경로_정성우" />
+      <item itemvalue="Python.11660_구간합구하기5_정성우" />
+      <item itemvalue="Python.17143_낚시왕_정성우" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.여행경로_정성우" />
-        <item itemvalue="Python.단어변환_정성우" />
+        <item itemvalue="Python.17143_낚시왕_정성우" />
+        <item itemvalue="Python.11660_구간합구하기5_정성우" />
         <item itemvalue="Python.이중우선순위큐_정성우" />
       </list>
     </recent_temporary>
@@ -285,16 +343,16 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="1912" y="-8" width="1096" height="1896" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1645737" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22778828" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.34375" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.22203293" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39977285" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -426,7 +484,22 @@
     <entry file="file://$PROJECT_DIR$/프로그래머스/이분탐색/입국심사_정성우.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
-          <caret line="13" column="27" lean-forward="true" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+          <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/프로그래머스/그래프/순위_정성우.py" />
+    <entry file="file://$PROJECT_DIR$/프로그래머스/그래프/가장먼노드_정성우.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="28" column="40" selection-start-line="28" selection-start-column="40" selection-end-line="28" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/프로그래머스/DFS&amp;BFS/여행경로_정성우.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="27" lean-forward="true" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
         </state>
       </provider>
     </entry>
@@ -437,10 +510,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/프로그래머스/DFS&amp;BFS/여행경로_정성우.py">
+    <entry file="file://$PROJECT_DIR$/백준/스터디/17143_낚시왕_정성우.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="36" column="17" lean-forward="true" selection-start-line="3" selection-end-line="36" selection-end-column="17" />
+        <state relative-caret-position="570">
+          <caret line="30" column="28" lean-forward="true" selection-start-line="30" selection-start-column="28" selection-end-line="30" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/백준/스터디/11660_구간합구하기5_정성우.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
