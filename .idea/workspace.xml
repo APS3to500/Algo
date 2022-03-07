@@ -14,38 +14,38 @@
     <session id="143151374">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="25" />
+          <entry key="project.closed" value="28" />
           <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.2" value="3" />
-          <entry key="project.open.time.3" value="10" />
-          <entry key="project.open.time.4" value="7" />
+          <entry key="project.open.time.2" value="4" />
+          <entry key="project.open.time.3" value="11" />
+          <entry key="project.open.time.4" value="8" />
           <entry key="project.open.time.5" value="2" />
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="25" />
+          <entry key="project.opened" value="28" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="36" />
+          <entry key="py" value="37" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="36" />
+          <entry key="Python" value="37" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="22" />
-          <entry key="py" value="5910" />
+          <entry key="py" value="9345" />
           <entry key="txt" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="31" />
-          <entry key="Python" value="5910" />
+          <entry key="Python" value="9345" />
         </counts>
       </usages-collector>
     </session>
@@ -70,11 +70,25 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/백준/스터디/17779_게리맨더링2_정성우.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
+            <state relative-caret-position="589">
               <caret line="31" column="18" selection-start-line="31" selection-start-column="18" selection-end-line="31" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/백준/스터디/19238_스타트택시_정성우.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1425">
+              <caret line="75" column="22" lean-forward="true" selection-start-line="75" selection-start-column="22" selection-end-line="75" selection-end-column="22" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+                <marker date="1646551022388" expanded="true" signature="473:1364" ph="..." />
+                <marker date="1646551022388" expanded="true" signature="1422:1427" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -127,14 +141,15 @@
         <option value="$PROJECT_DIR$/백준/스터디/11660_구간합구하기5_정성우.py" />
         <option value="$PROJECT_DIR$/백준/스터디/17143_낚시왕_정성우.py" />
         <option value="$PROJECT_DIR$/백준/스터디/17779_게리맨더링2_정성우.py" />
+        <option value="$PROJECT_DIR$/백준/스터디/19238_스타트택시_정성우.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="630" />
-    <option name="y" value="-35" />
-    <option name="width" value="1440" />
-    <option name="height" value="1010" />
+    <option name="x" value="2154" />
+    <option name="y" value="-13" />
+    <option name="width" value="648" />
+    <option name="height" value="612" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -144,6 +159,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -171,8 +187,10 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -191,7 +209,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.17779_게리맨더링2_정성우">
+  <component name="RunManager" selected="Python.19238_스타트택시_정성우">
     <configuration name="11660_구간합구하기5_정성우" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Algo" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -247,6 +265,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/백준/스터디/17779_게리맨더링2_정성우.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="19238_스타트택시_정성우" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Algo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/백준/스터디" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/백준/스터디/19238_스타트택시_정성우.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -344,9 +383,11 @@
       <item itemvalue="Python.11660_구간합구하기5_정성우" />
       <item itemvalue="Python.17143_낚시왕_정성우" />
       <item itemvalue="Python.17779_게리맨더링2_정성우" />
+      <item itemvalue="Python.19238_스타트택시_정성우" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.19238_스타트택시_정성우" />
         <item itemvalue="Python.17779_게리맨더링2_정성우" />
         <item itemvalue="Python.17143_낚시왕_정성우" />
         <item itemvalue="Python.11660_구간합구하기5_정성우" />
@@ -383,14 +424,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="1912" y="-8" width="1096" height="1896" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.060145408" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17580341" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.21875" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.120386146" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39977285" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -566,8 +607,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/백준/스터디/17779_게리맨더링2_정성우.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
+        <state relative-caret-position="589">
           <caret line="31" column="18" selection-start-line="31" selection-start-column="18" selection-end-line="31" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/백준/스터디/19238_스타트택시_정성우.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1425">
+          <caret line="75" column="22" lean-forward="true" selection-start-line="75" selection-start-column="22" selection-end-line="75" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+            <marker date="1646551022388" expanded="true" signature="473:1364" ph="..." />
+            <marker date="1646551022388" expanded="true" signature="1422:1427" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
