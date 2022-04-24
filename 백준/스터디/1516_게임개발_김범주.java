@@ -59,7 +59,7 @@ public class Main {
 				 
 				 
 				 */
-				in[next]--;
+				in[next]--; 
 				if(in[next] == 0) q.offer(next); // 2,3 이 들어감
 			}
 		}
