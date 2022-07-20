@@ -42,17 +42,8 @@ def dfs(now):
                             cover(i, j, l, now)
                 return
 
-    check = True
-    for i in range(10):
-        for j in range(10):
-            if dist[i][j]:
-                check = False
-                break
-        if not check:
-            break
 
-    if check:
-        ans = min(ans, now)
+    ans = min(ans, now)
 
 
 dfs(0)
